@@ -1,0 +1,1 @@
+java -jar selenium-server-standalone-2.52.0.jar -port 4444 -role hub maxInstances=7 maxSession=7 -timeout 2000 -cleanUpCycle 5000

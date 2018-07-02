@@ -1,0 +1,24 @@
+{
+	"capabilities": [{
+			"deviceName": "emulator-5556",
+			"maxInstances": 7,
+			"version": "24",
+			"platformName": "ANDROID",
+			"browserName" : "Chrome"
+		}
+	],
+	"configuration": {
+		"proxy": "org.openqa.grid.selenium.proxy.DefaultRemoteProxy",
+		"cleanUpCycle": 2000,
+		"port": 4536,
+		"host": "127.0.0.1",
+		"maxSession": 6,
+		"hubHost": "127.0.0.1",
+		"registerCycle": 5000,
+		"hubPort": 4444,
+		"hub": "127.0.0.1:4444\/grid\/register",
+		"timeout": 9000,
+		"url": "http:\/\/127.0.0.1:4536\/wd\/hub",
+		"register": true
+	}
+}

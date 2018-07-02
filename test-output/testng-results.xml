@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26" started-at="2018-04-27T06:49:36Z" finished-at="2018-04-27T06:49:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26" started-at="2018-04-27T06:49:36Z" finished-at="2018-04-27T06:49:36Z">
+      <class name="AppiumClass.Testng1">
+        <test-method status="PASS" signature="BeforeSuite()[pri:0, instance:AppiumClass.Testng1@6ea12c19]" name="BeforeSuite" is-config="true" duration-ms="13" started-at="2018-04-27T12:19:36Z" finished-at="2018-04-27T12:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeSuite -->
+        <test-method status="PASS" signature="testMethod1()[pri:0, instance:AppiumClass.Testng1@6ea12c19]" name="testMethod1" is-config="true" duration-ms="0" started-at="2018-04-27T12:19:36Z" finished-at="2018-04-27T12:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMethod1 -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:AppiumClass.Testng1@6ea12c19]" name="beforeClass" is-config="true" duration-ms="0" started-at="2018-04-27T12:19:36Z" finished-at="2018-04-27T12:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="btestMethod1()[pri:0, instance:AppiumClass.Testng1@6ea12c19]" name="btestMethod1" is-config="true" duration-ms="3" started-at="2018-04-27T12:19:36Z" finished-at="2018-04-27T12:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- btestMethod1 -->
+        <test-method status="PASS" signature="atestMethod1()[pri:0, instance:AppiumClass.Testng1@6ea12c19]" name="atestMethod1" duration-ms="5" started-at="2018-04-27T12:19:36Z" finished-at="2018-04-27T12:19:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestMethod1 -->
+      </class> <!-- AppiumClass.Testng1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
